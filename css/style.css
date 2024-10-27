@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+#paragraphe{
+    margin: 30 px;
+    color: brown;
+}
+#division{
+    background-color: brown;
+    height: 300PX;
+    width: 200px;
+    color: black;
+    
+}
